@@ -1,3 +1,4 @@
+
 ## Mein erstes Git Repositorium
 
 - author: Silvia Czerwinski
@@ -13,3 +14,8 @@ Der Befehl, um **erstmalig** die Dateien von dem geforkten Repositorium auf den 
 * Und **zukünftig** kann man Änderungen auf den eigenen Rechner wieder ziehen mit:
  git pull 
 * git push schiebt die Änderungen auf GitHub ins Repo
+
+**Ergänzung**
+ die mail an euch war keine pullrequest Anfrage, sondern nur zum Lesen.
+ Ich habe jetzt gerade Rabeas Video gesehen. Da ist alles super erklärt.
+ Für den pullrequest kann ich am Montag noch etwas anderes ändern.
